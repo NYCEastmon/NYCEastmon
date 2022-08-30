@@ -4,6 +4,7 @@
 - I’m currently learning cloud and networking. 
 - I’m looking for help with learning how to be a great multi cloud engineer.
 - Ask me about all things cloud and networking. 
-- How to reach me: malcolm@malcolmeastman.tech
-- Fun fact: I have skated 171 miles in 17 hours on a longboard. 
+- How to reach me: malcolm@malcolmeastman.tech 
+- Fun fact: I have skated 171 miles in 17 hours on a longboard.
+- Linkedin: https://www.linkedin.com/in/malcolm-eastman
 - You can find my portfoilo at https://malcolmeastman.tech 
