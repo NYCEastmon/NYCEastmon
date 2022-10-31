@@ -8,3 +8,4 @@
 - Fun fact: I have skated 171 miles in 17 hours on a longboard.
 - Linkedin: https://www.linkedin.com/in/malcolm-eastman
 - You can find my portfoilo at https://malcolmeastman.tech 
+[![LinkedIn Badge]
