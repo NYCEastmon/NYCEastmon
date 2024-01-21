@@ -1,4 +1,4 @@
-<h1>Hi, I'm Malcolm! <br/><a h</a> <a href="https://www.linkedin.com/in/joshmadakor/">Cloud,Networking Professional and Educator </a>
+<h1>Hi, I'm Malcolm! <br/><a h</a> <a href="https://www.linkedin.com/in/Malcolm-Eastman/">Cloud, Networking Professional and Educator </a>
 <h2>🖥️ Cisco Packet Tracer Projects:</h2>
 
 - <b> [Creating a Secure Shell connection on a Cisco router or switch.](https://www.youtube.com/watch?v=-FtyBmhg3bc&t=3s)
