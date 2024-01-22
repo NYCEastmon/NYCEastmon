@@ -5,6 +5,7 @@
 - <b> [Spanning tree and Ether channel tutorial](https://www.youtube.com/watch?v=2fpP-ObrLqU)
 - <b> [DHCP Snooping Tutorial](https://www.youtube.com/watch?v=A99CCSWbSrk&t=8s)
 - <b> [OSPF Tutorial](https://www.youtube.com/watch?v=F76spmpdTeE)
+- <b> [Port Security tutorial](https://www.youtube.com/watch?v=vJKLbr41WZM)
 
 <h2>📃 Medium Articles </h2>
 
