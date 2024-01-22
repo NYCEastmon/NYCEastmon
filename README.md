@@ -16,13 +16,11 @@
 
 - <b> [How to crimp an ethernet cable.](https://www.youtube.com/watch?v=Fhusm7rk6Es)
 
-</h2> 📱 Connect with me: </h2>
-
+</h2>📱 Connect with me: </h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="JoshMadakor | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" />][Medium]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
 
 
 [youtube]: https://www.youtube.com/c/@Eastmon100
