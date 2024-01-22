@@ -6,8 +6,13 @@
 - <b> [DHCP Snooping Tutorial](https://www.youtube.com/watch?v=A99CCSWbSrk&t=8s)
 - <b> [OSPF Tutorial](https://www.youtube.com/watch?v=F76spmpdTeE)
 
+<h2> Medium Articles 
 
-<h2> 📱 Connect with me:</h2>
+- <b> [How DHCP snooping works.](https://medium.com/@Malcolm-Eastman/how-dhcp-snooping-works-675d663c30cd)
+- <b> [SSH and why it matters.](https://medium.com/@Malcolm-Eastman/ssh-and-why-it-matters-6eaa1186a8ba)
+
+<h2> 📱 Connect with me:
+
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="JoshMadakor | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" />][Medium]
