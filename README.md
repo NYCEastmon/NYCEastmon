@@ -11,6 +11,10 @@
 - <b> [How DHCP snooping works.](https://medium.com/@Malcolm-Eastman/how-dhcp-snooping-works-675d663c30cd)
 - <b> [SSH and why it matters.](https://medium.com/@Malcolm-Eastman/ssh-and-why-it-matters-6eaa1186a8ba)
 
+</h2> Tech How to videos 
+
+- <b> [How to crimp an ethernet cable.](https://www.youtube.com/watch?v=Fhusm7rk6Es)
+
 <h2> 📱 Connect with me:
 
 
