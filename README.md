@@ -6,7 +6,7 @@
 - <b> [DHCP Snooping Tutorial](https://www.youtube.com/watch?v=A99CCSWbSrk&t=8s)
 - <b> [OSPF Tutorial](https://www.youtube.com/watch?v=F76spmpdTeE)
 - <b> [Port Security tutorial](https://www.youtube.com/watch?v=vJKLbr41WZM)
-- <b> [DHCP Pool Tutorial](https://www.youtube.com/watch?v=eTEMAZY0aiQ)
+- <b> [DHCP Server Tutorial](https://www.youtube.com/watch?v=eTEMAZY0aiQ)
 
 <h2>📃 Medium Articles </h2>
 
